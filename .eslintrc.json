@@ -10,7 +10,6 @@
     "airbnb",
     "prettier"
   ],
-  "ignorePatterns": ["dist", ".eslintrc.cjs"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module",
