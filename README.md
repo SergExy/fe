@@ -9,4 +9,4 @@
 
 [DEMO](https://sergexy.github.io/fe/)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ydeimhgv009o1pbo?svg=true)](https://ci.appveyor.com/project/SergExy/fe)
+[![Build status](https://ci.appveyor.com/api/projects/status/a4g2u86au6d6inl8?svg=true)](https://ci.appveyor.com/project/SergExy/fe)
