@@ -1,6 +1,6 @@
-dist/
-coverage/
-doc/
-node_modules/
+dist
+coverage
+doc
+node_modules
 *.config.js
 *.min.js
